@@ -1,3 +1,14 @@
-<img width="228" alt="Screenshot 2023-10-01 at 3 00 18 PM" src="https://github.com/Parth1820/MAD_Practical-4_21012011155/assets/139493808/1493d28e-1811-4501-8637-f1becd4d5836">
-<img width="220" alt="Screenshot 2023-10-01 at 3 00 27 PM" src="https://github.com/Parth1820/MAD_Practical-4_21012011155/assets/139493808/80558ca5-58f6-486c-869b-1a80f6a5420e">
-<img width="237" alt="Screenshot 2023-10-01 at 3 00 35 PM" src="https://github.com/Parth1820/MAD_Practical-4_21012011155/assets/139493808/fda112d5-deeb-4a7c-8b17-c5b06b7de186">
+# MAD_Practical4_21012011155
+
+AIM: Create given UI by using ConstraintLayout, LinearLayout, in one android Application. Create two activities LoginActivity by using ConstraintLayout and RegistrationActivity by using LinearLayout & use Explicit Intent to move from one activity to another activity.
+
+->**OUTPUT**:
+
+![image](https://github.com/Parth1820/MAD_Practical-4_21012011155/assets/139493808/b362bfbd-12c8-44bc-afcd-b73706af2104)
+
+![image](https://github.com/Parth1820/MAD_Practical-4_21012011155/assets/139493808/4ff45612-f3e9-4741-a5a0-e50f34949be3)
+
+![image](https://github.com/Parth1820/MAD_Practical-4_21012011155/assets/139493808/c3e8f53c-730f-47ab-a33f-85fa82a98b21)
+
+
+
